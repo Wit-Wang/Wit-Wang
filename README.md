@@ -11,5 +11,5 @@ ______
 - 🌱 I’m __currently__ _learning_ [`Machine Learning`](https://github.com/topics/machine-learning).
 - 📫 __How__ to _communicate with_ me: [`github`](https://github.com/Wit-Wang)
 ______
-#### Know more about me, click [there](https://github.com/Wit-Wang/Wit-Wang.github.io).
+#### Please follow me if you want to make friend with me, a senior high school student.
 ______
