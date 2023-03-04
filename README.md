@@ -1,13 +1,26 @@
 # Hello world 👋👋👋
 
-- 🔭 I’m __currently__ _working_ on  `a secret project`.
-- 🌱 I’m __currently__ _learning_ `HTML CSS Javascript`.
-- 📫 __How__ to _contact_ me: `email` witwang@yeah.net
+- 🎓 I'm __Wit Wang__, a high school student.
+- 🔭You can find my projects on `Github`.
+- ✍  I’m currently working on `my website`.
+- 🌱 I’m currently learning `JavaScripts`.
+- 👯 I’m looking to collaborate on `open source`.
+- 💬 Ask me about ... `Anything`
 
-## About me
+## Skills
 
-I'm a senior high school student. Please follow me if you want to make a friend with me.
+- Python, C++
+- HTML, CSS, JavaScript
+- Unity, Unreal Engine
 
----
+## 🏆 My Github Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Wit-Wang.Wit-Wang)
+![Wit-Wang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wit-Wang&bg_color=0d1117&color=cccccc&line=4c779e&point=a8e5ff&area=true&hide_border=true)
+
+<p align="center">
+        <a href="https://github.com/Wit-Wang?tab=followers">
+            <img src="https://img.shields.io/github/followers/Wit-Wang?label=Followers&style=social" alt="GitHub Badge">
+        </a>
+</p>
+<p align="center">© 2023 Wit-Wang.</p>
+<p align="center">All rights reserved.</p>
