@@ -1,8 +1,8 @@
 # Hello world 👋👋👋
 
-- 🎓 I'm __Wit Wang__, a high school student.
+- 🎓 I'm __Wit Wang__, a university student.
 - 🔭You can find my projects on `Github`.
-- ✍  I’m currently working on `my website`.
+- ✍  I’m currently working on `dice`.
 - 🌱 I’m currently learning `JavaScripts`.
 - 👯 I’m looking to collaborate on `open source`.
 - 💬 Ask me about ... `Anything`
